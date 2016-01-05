@@ -1,0 +1,5 @@
+red		green		blue		green red 	yellow    #this is a comment
+ red		blue		green		blue	green yellow
+
+# this is also a comment!
+*2 green*3 blue*2 blue*4 yellow		green	  		 # this is a third comment
